@@ -1,6 +1,15 @@
 # Data Preprocessing and Feature Engineering for Machine Learning 
 ## Housing Dataset Project
 
+This project includes Data Preprocessing and feature engineering for machine learning. It is a set series for Python Data science. The dataset used for California Housing. This project shows the following:
+
+
+* Data import and first inspection
+* Analyze the longitude and latitude
+* Determine the total average rooms and bedrooms for housing
+* Calculate the median income and house value
+* Data cleaning and creating additional features
+* Determine factors that influence house prices
 
 
 ![image](https://github.com/user-attachments/assets/79b4dd3f-a7b8-4036-a48a-4dd19ea6aae1)
